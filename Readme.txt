@@ -1,4 +1,2 @@
-﻿Git is a version control system.
-Git is free software
-第一次修改
-第二次修改
+﻿2018-5-24
+建立基本类框架并完成主窗口
